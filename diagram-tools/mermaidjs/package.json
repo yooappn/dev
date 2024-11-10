@@ -1,0 +1,14 @@
+{
+  "name": "diagram-mermaidjs",
+  "version": "0.0.1",
+  "author": "Your Name <email@example.com>",
+  "description": "mermaid examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@mermaid-js/mermaid-cli": "^11.4.0"
+  }
+}
